@@ -1,0 +1,38 @@
+﻿Построение начато 04.10.2012 23:04:00.
+     1>Проект "D:\projects\SoundString\SS_Final_Presentation_Version\SS\SS.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Release\SS.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Ox /Oy- /GT /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Yu"stdafx.h" /Fp"Release\SS.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Grafics.cpp camera.cpp font.cpp glelements_and_texture.cpp init.cpp main.cpp sound.cpp
+         Grafics.cpp
+         camera.cpp
+         font.cpp
+         glelements_and_texture.cpp
+         init.cpp
+         main.cpp
+         sound.cpp
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\projects\SoundString\SS_Final_Presentation_Version\Release\SS.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\projects\SoundString\SS_Final_Presentation_Version\Release\SS.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\projects\SoundString\SS_Final_Presentation_Version\Release\SS.lib" /MACHINE:X86 /SAFESEH Release\SS.res
+         Release\camera.obj
+         Release\Control.obj
+         Release\font.obj
+         Release\glelements_and_texture.obj
+         Release\Grafics.obj
+         Release\init.obj
+         Release\main.obj
+         Release\sound.obj
+         Release\stdafx.obj
+         Создание кода
+         Создание кода завершено
+         SS.vcxproj -> D:\projects\SoundString\SS_Final_Presentation_Version\Release\SS.exe
+       FinalizeBuildStatus:
+         Файл "Release\SS.unsuccessfulbuild" удаляется.
+         Обращение к "Release\SS.lastbuildstate".
+     1>Построение проекта "D:\projects\SoundString\SS_Final_Presentation_Version\SS\SS.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.32

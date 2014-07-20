@@ -1,0 +1,74 @@
+﻿Построение начато 22.07.2012 18:27:10.
+     1>Проект "D:\Projects\SoundString\SS_Final\SS\SS.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "D:\Projects\SoundString\SS_Final\Debug\".
+       InitializeBuildStatus:
+         Создание "Debug\SS.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Yc"StdAfx.h" /Fp"Debug\SS.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Yu"StdAfx.h" /Fp"Debug\SS.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt camera.cpp Control.cpp font.cpp glelements_and_texture.cpp Grafics.cpp init.cpp main.cpp sound.cpp
+         sound.cpp
+         main.cpp
+         init.cpp
+         Grafics.cpp
+         glelements_and_texture.cpp
+         font.cpp
+         Control.cpp
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(183): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(186): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(186): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(187): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(188): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(190): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(193): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(193): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(194): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(195): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(197): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(197): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(198): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(199): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(199): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(200): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(201): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(203): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(203): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(204): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(205): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(206): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(206): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(207): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(208): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(210): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(211): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\soundstring\ss_final\ss\control.cpp(212): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+         camera.cpp
+         Создание кода...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /fo"Debug\SS.res" SS.rc 
+         Microsoft (R) Windows (R) Resource Compiler Version 6.1.7600.16385
+         
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\SS.exe.embed.manifest.res" Debug\SS_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\SoundString\SS_Final\Debug\SS.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SS.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Projects\SoundString\SS_Final\Debug\SS.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\SoundString\SS_Final\Debug\SS.lib" /MACHINE:X86 Debug\SS.res
+         Debug\SS.exe.embed.manifest.res
+         Debug\camera.obj
+         Debug\Control.obj
+         Debug\font.obj
+         Debug\glelements_and_texture.obj
+         Debug\Grafics.obj
+         Debug\init.obj
+         Debug\main.obj
+         Debug\sound.obj
+         Debug\stdafx.obj
+     1>LINK : fatal error LNK1123: сбой при преобразовании в COFF: файл недопустим или поврежден
+     1>Построение проекта "D:\Projects\SoundString\SS_Final\SS\SS.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:04.30
